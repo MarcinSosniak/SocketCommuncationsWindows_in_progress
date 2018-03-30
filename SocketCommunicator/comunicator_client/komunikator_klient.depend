@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1475275823 source:c:\programy\c++home\socket\comunicator_client\connection.cpp
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	"connection.h"
+
+1475275925 c:\programy\c++home\socket\comunicator_client\connection.h
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+
+1475180757 source:c:\programy\c++home\socket\comunicator_client\main.cpp
+	<iostream>
+	<conio.h>
+	"connection.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1475179285 source:c:\programy\c++home\socket\komunikator_server\komunikator_server\main.cpp
+	<iostream>
+	"server_class.h"
+	<conio.h>
+	<windows.h>
+	<tchar.h>
+
+1475176460 c:\programy\c++home\socket\komunikator_server\komunikator_server\server_class.h
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<windows.h>
+	<tchar.h>
+
+1475179779 source:c:\programy\c++home\socket\komunikator_server\komunikator_server\server_class.cpp
+	"server_class.h"
+	<stdio.h>
+	<winsock2.h>
+	<windows.h>
+	<iostream>
+
